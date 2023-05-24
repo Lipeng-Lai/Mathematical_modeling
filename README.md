@@ -1,2 +1,1 @@
-# Mathematical_modeling
-Mathematical modeling code
+存放数学建模论文代码
